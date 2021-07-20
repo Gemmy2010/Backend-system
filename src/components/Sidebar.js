@@ -73,6 +73,12 @@ const SidebarContainer = styled.div`
     margin-left: 20px;
     padding: 20px;
   }
+  > input {
+    padding: 20px;
+    width: 150px;
+    font-size: 18px;
+    cursor: pointer;
+  }
 `;
 
 const SidebarHeader = styled.div`
