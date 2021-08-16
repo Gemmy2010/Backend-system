@@ -13,7 +13,7 @@ function Login() {
     <LoginContainer>
       <LoginInnerContainer>
         <img src={image1} alt="" />
-        <h1>Sign in to BikeTrace</h1>
+        <h1>Sign in to Company</h1>
 
         <Button onClick={signIn}>Sign in with Google</Button>
       </LoginInnerContainer>
