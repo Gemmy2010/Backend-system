@@ -57,7 +57,7 @@ export default Sidebar;
 
 const SidebarContainer = styled.div`
   color: white;
-  background-color: var(--biketrace-color);
+  background-color: var(--company-color);
   flex: 0.3;
   border-top: 1px solid #b7494c;
   max-width: 260px;
