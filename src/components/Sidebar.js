@@ -26,11 +26,11 @@ function Sidebar() {
       <SidebarHeader>
         <SidebarInfo>
           <h2>
-            Login name <br></br>Biketrace
+            Login name <br></br>Company-name
           </h2>
           <h3>
             <FiberManualRecordIcon />
-            Jemima Osoro
+            Jane
           </h3>
         </SidebarInfo>
         <CreateIcon />
